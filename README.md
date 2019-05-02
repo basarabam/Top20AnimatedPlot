@@ -1,5 +1,5 @@
-# Top20AnimatedPlot
-Animated plot of Top 20 National football teams by goals scored 
+# Top 20 National Football Teams by Goals Scored Animated Plot
+Animated plot of Top 20 National football teams by goals scored made by using ggplot2, gganimate and ggflags packages (and other listed). Follow comments in the code for instructions.
 </br>
 This is how animated plot looks like, when finished:
 
